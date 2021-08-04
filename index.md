@@ -1,8 +1,12 @@
 ## Note di vita
 
-You can use the [editor on GitHub](https://github.com/glmatt/notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+La verità? Non so che farmene di un altro sito.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Però...
+
+Però ho scoperto da qualche tempo GitHub, e sono rimasto davvero stupito delle sue potenzialità, della facilità d'uso e degli enormi sviluppi che aspettano noi come utenti della piattaforma.
+
+Me la sto studiando, trainato anche da un progetto che sto seguendo a lavoro nel quale stiamo facendo un uso spinto di [JAMstack](https://jamstack.org/).
 
 ### Markdown
 
