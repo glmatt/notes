@@ -6,7 +6,7 @@ _Non so che farmene di un altro sito._
 
 Però...
 
-Però ho scoperto da qualche tempo GitHub, e sono rimasto davvero stupito delle sue potenzialità, della facilità d'uso e degli enormi sviluppi che aspettano noi come utenti della piattaforma.
+Però ho scoperto da qualche tempo GitHub, e sono rimasto davvero stupito dalle sue potenzialità, dalla facilità d'uso e dagli enormi sviluppi che aspettano noi come utenti della piattaforma.
 
 Me la sto studiando, trainato anche da un progetto che sto seguendo a lavoro nel quale stiamo facendo un uso spinto di [JAMstack](https://jamstack.org/).
 
