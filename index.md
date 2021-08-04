@@ -1,6 +1,8 @@
 ## Note di vita
 
-La verità? Non so che farmene di un altro sito.
+**La verità?**
+
+_Non so che farmene di un altro sito._
 
 Però...
 
